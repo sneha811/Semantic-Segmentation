@@ -57,4 +57,4 @@ The results reported on the given COCO files are presented in the following tabl
 #### PAD
 
 Scenario | Model | Acc. W. (%) | F1 W. (%) | Precision W. (%)  
-2  | U-Net | **83.12** | **57.85** | **61.57**
+1  | U-Net | **83.12** | **57.85** | **61.57**
